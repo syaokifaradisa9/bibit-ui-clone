@@ -1,16 +1,41 @@
-# bibit_clone
+# Bibit Home UI Clone
 
-A new Flutter project.
+This is a personal project where I created a clone of the Bibit Home User Interface using Flutter. The goal of this project is to replicate the user interface of the popular investment application, Bibit, and to demonstrate my Flutter development skills.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Replicated Bibit Home UI with Flutter
+- Modern and minimalistic design
+- Usage of various Flutter widgets and packages to achieve the UI/UX
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/syaokifaradisa9/bibit-ui-clone.git
+    ```
+2. Change to the project directory:
+    ```bash
+    cd bibit-ui-clone
+    ```
+3. Install the dependencies:
+    ```bash
+    flutter pub get
+    ```
+4. Run the project:
+    ```bash
+    flutter run
+    ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+This project is for educational and demonstrative purposes only. Feel free to explore the code, suggest improvements, and use it as a reference for your own Flutter projects.
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to me at [syaokifaradisa09@gmail.com] or my whatsapp at +6282149411670.
+
+---
+
+Thank you for checking out my project! If you find it helpful, please consider giving it a star on GitHub. Happy coding!
+
